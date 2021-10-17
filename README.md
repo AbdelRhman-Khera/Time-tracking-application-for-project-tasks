@@ -12,7 +12,7 @@
 
 ## Admin Login
 
-[baseUrl]/admin/dashboard
+
 
 credentials:
 
@@ -23,7 +23,7 @@ password : 12345678
 
 ## User Login
 
-[baseUrl]/admin/dashboard
+
 
 credentials:
 
